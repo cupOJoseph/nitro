@@ -26,4 +26,4 @@ During the devnet period, we have licensed Nitro under a
 Business Source License, similar to our friends at Uniswap and Aave. 
 Before mainnet launch, we will be re-licensing the code in a more 
 permissive fashion to ensure that everyone can have full comfort 
-using and running nodes on Arbitrum One.
+using and running nodes on Arbitrum Nitro.
